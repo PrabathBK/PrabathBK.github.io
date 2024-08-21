@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Electronic & Telecommunication Engineering (ENTC) Undergraduate Student at University of Moratuwa
 
 profile:
   align: right
