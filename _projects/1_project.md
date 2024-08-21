@@ -1,81 +1,57 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Project Hydrolink
+description: HydroLink is an IoT device that transforms any domestic water tank into a smart one.
+img: assets/img/hydrolink1.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Hydrolink: The Innovative IoT Device Revolutionizing Water Tank Management
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Hydrolink is a project we developed during our Engineering Design Project in the 2nd semester. It is designed to convert any existing water tank into a smart, efficient system, providing real-time monitoring and control without causing any damage to the existing structure.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Key Features
+
+- **🔍 Real-Time Water Level Monitoring:** Monitor water levels using a mobile app from anywhere in the world.
+
+- **⚙️ Automatic & Manual Water Flow Control:** Hydrolink allows complete control at your fingertips, whether automating irrigation or manually adjusting water flow.
+
+- **💨 Air Flow Detection:** Advanced sensors detect unwanted air flows, ensuring your water remains clean and free from contamination.
+
+- **🔋 Backup Batteries for Power Cuts:** Equipped with backup batteries to ensure uninterrupted operation, even during power outages.
+
+With Hydrolink, we’re not just creating a product; we’re empowering communities to manage their water resources efficiently and sustainably.
+
+**💧 Join us in shaping a future where every drop counts.**
+
+We developed Hydrolink as a comprehensive IoT solution and received funding from the World Bank for this project under UBLC. Our team is currently working on improvements to make it market-ready.
+
+For more information, visit: [www.hydrolink.lk](http://www.hydrolink.lk)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/hydrolink2.jpg" title="Example Image 1" class="img-fluid rounded z-depth-1" width="400" height="300"%}
     </div>
 </div>
+
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    <h2>Some photos of Hydrolink 1.0</h2>
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/hydrolink3.jpg" title="Example Image 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/hydrolink4.jpg" title="Example Image 3" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/hydrolink5.jpg" title="Example Image 4" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Since receiving the UBLC grant, we have planned to develop a small batch of Hydrolink 2.0. For more details about Hydrolink 2.0, visit www.hydrolink.lk.
 </div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

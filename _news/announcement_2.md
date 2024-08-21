@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Semi Finalist - HackX 2024 
+title: Finalist - HackX 2024 (ongoing)
 date: 2024-08-17 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Semi Finalist - HackX 2024 
+Finalist - HackX 2024 (ongoing)
 
 ---
 
