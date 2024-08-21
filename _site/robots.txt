@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://PrabathBK.github.io/sitemap.xml
