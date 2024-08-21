@@ -1,8 +1,16 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: Championship - SLIoT Challange 2023
+
+date: 2024-04-22 16:11:00-0400
+inline: false
 related_posts: false
 ---
 
-A simple inline announcement.
+Championship - SLIoT Challange 2023
+ 
+
+---
+
+All island Internet of Things Competition
+
