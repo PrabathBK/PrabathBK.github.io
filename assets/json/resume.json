@@ -348,28 +348,37 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Academic",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Digital Design", "Computer Architecture","FPGA Design" ,"Internet of Things", "Machine Learning"
+      ]
+    },
+    {
+      "name": "Sports",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Cricket", "Volleyball", "Baseball", "Hockey"
+      ]
+    },    {
+      "name": "Hobbies",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Hiking","Camping","Playing Drums","Watching Movies"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Ajith A. Pasqual,",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "B.Sc. Eng. (Moratuwa, Sri Lanka), M.Eng. (Tokyo), Ph.D. (Tokyo), MIEEE, MACM,Senior Lecturer,Department of Electronic and Telecommunication Engineering,Faculty of Engineering, University of Moratuwa, Moratuwa, Sri Lanka. Email: pasqual@uom.lk. Phone: +94(0)777413099"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Sampath K. Perera,",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": " B.Sc. Eng. (Moratuwa, Sri Lanka), M.E.Sc (Western, Canada), Ph.D. (RUB, Germany), MIEEE,Senior Lecturer, Department of Electronic and Telecommunication Engineering, Faculty of Engineering, University of Moratuwa, Moratuwa, Sri Lanka. Email: sampathk@uom.lk. Phone: +94(0)705726264"
+      
     }
   ],
   "projects": [
