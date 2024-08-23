@@ -2,7 +2,7 @@
 layout: page
 title: Hardware accelerator for a Vision Transformer-based malware detection system on a VEGA Processor
 description: This is an ongoing project for DVCon India Design Contest 2024. The project focuses on accelerating ViT-based malware detection on edge devices using the VEGA AS1061 Processor, which is based on the RISC-V ISA.
-img: assets/img/7.jpg
+img: assets/img/DVCON.jpg
 redirect:
 importance: 3
 category: work

@@ -2,7 +2,7 @@
 layout: page
 title: Processor Design and Implementation on an FPGA
 description: This is an ongoing project for designing and implementing a single-cycle processor.
-img: assets/img/6.jpg
+img: assets/img/Processor.jpg
 importance: 2
 category: work
 giscus_comments: true
