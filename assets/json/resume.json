@@ -27,24 +27,134 @@
       "name": "Hydrolink",
       "position": "Team Leader",
       "url": "https://hydrolink.lk/",
-      "startDate": "2024-04-20",
+      "startDate": "2023-04-20",
       "endDate": "present",
-      "summary": "Hydrolink is an innovative IoT device revolutionizing water tank management. We developed this project and subsequently received a grant from the World Bank to manufacture a small batch of units and create a market-ready product.Through this experience, I gained significant skills in business and project planning, as well as product marketing. Ultimately, we launched our website, www.hydrolink.lk, and won the championship at the SLIoT Challenge 2023. For more details .",
+      "summary": "Hydrolink is an innovative IoT device revolutionizing water tank management. We developed this project and subsequently received a grant from the World Bank to manufacture a small batch of units and create a market-ready product.Through this experience, I gained significant skills in business and project planning, as well as product marketing. Ultimately, we launched our website, www.hydrolink.lk, and won the championship at the SLIoT Challenge 2023. For more details visit www.hydrolink.lk .",
       "highlights": ["Champions- SLIoT Challenge 2023"]
+    },
+
+    {
+      "name": "Electronic club -  University of Moratuwa",
+      "position": "Social Media Sub-cordinator",
+      "url": "https://ent.uom.lk/electronic-club/",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "Electronic club is the official student body in the Department of Electronic and Telecommunication Engineering, University of Moratuwa. The club is responsible for organizing various events and workshops to enhance the knowledge of the students in the department. As the Social Media Sub-coordinator, I was responsible for managing the social media platforms of the club and promoting the events and workshops organized by the club.",
+      "highlights": []
+    },    {
+      "name": "Aura Digital Labs",
+      "position": "Co-Founder",
+      "url": "https://www.auradigitallabs.com/",
+      "startDate": "2021",
+      "endDate": "present",
+      "summary": "Aura Digital Labs is a leading digital transformation consultancy, dedicated to empowering businesses of all sizes to thrive in the digital age. With a team of seasoned experts, we combine cutting-edge technology, strategic insights, and a customer-centric approach to deliver innovative solutions that drive growth and success.",
+      "highlights": ["Visit https://www.auradigitallabs.com/"]
     }
+
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Department of Electronic and Telecommunication Engineering, University of Moratuwa",
+      "location": "Moratuwa,Sri Lanka",
+      "position": "Department Batch Representative",
+      "url": "https://ent.uom.lk/",
+      "startDate": "2024-01",
+      "endDate": "present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "IEEE Society University of Moratuwa",
+      "location":"Moratuwa,Sri Lanka" ,
+      "position": "Finance Committee member",
+      "url": "https://site.ieee.org/sb-moratuwa/",
+      "startDate": "2023-03",
+      "endDate": "2023-07",
+      "summary": "project Mora Foresight 1.0",
+      "highlights": []
+    },
+    {
+      "organization": "AIESEC - University of Moratuwa",
+      "location":"Moratuwa,Sri Lanka" ,
+      "position": "Finance Committee member",
+      "url": "https://uom.lk/archi/news_events/aiesec-university-moratuwa",
+      "startDate": "2023-07",
+      "endDate": "2023-08",
+      "summary": "EXMO is the flagship technological exhibition of the University of Moratuwa",
+      "highlights": []
+    },
+    {
+      "organization": "IEEE Society University of Moratuwa",
+      "location":"Moratuwa,Sri Lanka" ,
+      "position": "Finance Committee member",
+      "url": "https://site.ieee.org/sb-moratuwa/",
+      "startDate": "2022-08",
+      "endDate": "2022-12",
+      "summary": "project Rooted 1.0",
+      "highlights": []
+    },
+    {
+      "organization": "Dharmaraja Collage",
+      "location":"Kandy,Sri Lanka" ,
+      "position": "Jounior Prefect",
+      "url": "https://www.dharmaraja.lk/",
+      "startDate": "2015-01",
+      "endDate": "2015-12",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Dharmaraja Collage Hostal",
+      "location":"Kandy,Sri Lanka" ,
+      "position": "President of Collage Hosteler’s Society",
+      "url": "",
+      "startDate": "2017-01",
+      "endDate": "2017-12",
+      "summary": "We have Organized the Hostel Day 2017 and many more events",
+      "highlights": []
+    },
+    {
+      "organization": "Sasnaka Sansada",
+      "location":"Kandy,Sri Lanka" ,
+      "position": "Member",
+      "url": "",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Teaching experience with Volunteering in 'Ganitha Saviya' Project",
+      "highlights": []
+    },
+    {
+      "organization": "Prakampana Sansada",
+      "location":"Hettipola,Sri Lanka" ,
+      "position": "Co-Founder and Advisor",
+      "url": "",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "Social Service and Education Development Society",
+      "highlights": []
+    },
+    {
+      "organization": "Mora Hiking Club",
+      "location":"Moratuwa,Sri Lanka" ,
+      "position": "STRIDIAN Participent",
+      "url": "https://morahiking.com/",
+      "startDate": "2023-07",
+      "endDate": "2023-08",
+      "summary": "STRIDIAN is a 2-day hiking event organized by the Mora Hiking Club and it is the Flagship event of the club.",
+      "highlights": []
+    },
+    {
+      "organization": "Mora Hiking Club",
+      "location":"Moratuwa,Sri Lanka" ,
+      "position": "STRIDIAN Participent",
+      "url": "https://morahiking.com/",
+      "startDate": "2023-07",
+      "endDate": "2023-08",
+      "summary": "STRIDIAN is a 2-day hiking event organized by the Mora Hiking Club and it is the Flagship event of the club.",
+      "highlights": []
     }
   ],
+  
   "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
