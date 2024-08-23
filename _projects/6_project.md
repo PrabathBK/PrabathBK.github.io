@@ -27,6 +27,6 @@ category: fun
 </div>
 
 
-**Project Repository:** [GitHub - PrabathBK/Hand_Tracking](https://github.com/PrabathBK/Hand_Tracking)
+**Project Repository:** [Project Repository](https://github.com/PrabathBK/Hand_Tracking)
 
 **Skills:** Gemini API · OpenCV

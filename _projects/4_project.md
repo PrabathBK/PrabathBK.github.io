@@ -15,7 +15,7 @@ redirect:
 - 💻 **7-Segment Display Conversion:** Designed custom combinational logic to convert the sum for display on two 7-segment displays.
 - 💻 **Testbench:** Included randomized inputs and assertions to ensure thorough testing and robust performance.
 
-**Project Repository:** [https://github.com/PrabathBK/Accumulator-with-AXIS](https://github.com/PrabathBK/Accumulator-with-AXIS)
+**Project Repository:** [Project Repository](https://github.com/PrabathBK/Accumulator-with-AXIS)
 
 **Skills:** Digital System Design · Troubleshooting · AXI Stream · SystemVerilog · Digital Designs · Hardware Description Language · Logic Design · Xilinx Vivado
 
