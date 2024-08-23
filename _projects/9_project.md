@@ -3,7 +3,7 @@ layout: page
 title: Modular Software Development Project
 description: 🔧 Manufacturing and Assembly Line Planning and Management Subsystem for PCB Manufacturing Company
 img: assets/img/MSD1.jpeg
-importance: 4
+importance: 2
 category: work
 ---
 #### Manufacturing and Assembly Line Planning and Management Subsystem for PCB Manufacturing Company

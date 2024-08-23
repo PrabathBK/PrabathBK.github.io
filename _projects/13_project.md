@@ -3,7 +3,7 @@ layout: page
 title: project Steer-Safe
 description: A wearable device that utilizes machine learning and Electrooculography (EOG) signals to track a driver’s state of awareness in real-time
 img: assets/img/Steersafe1.png
-importance: 4
+importance: 2
 category: work
 ---
 

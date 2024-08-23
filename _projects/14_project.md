@@ -3,7 +3,7 @@ layout: page
 title: Matrix Vector Multiplier using UART Communication
 description: This project implements a Matrix Vector Multiplier (MVM) on an FPGA, a component commonly employed in convolutional neural networks (CNNs) for deep learning applications.
 img: assets/img/mvm1.png
-importance: 4
+importance: 2
 category: work
 ---
 
