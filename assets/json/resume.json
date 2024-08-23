@@ -191,105 +191,152 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Champions | SLIoT Challenge 2023- All island IoT competition",
+      "date": "2023",
+      "awarder": "",
+      "url": "",
+      "summary": "Hydrolink- A Complete IoT Device Revolutionizing Water Tank Management"
     },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "1st RunnersUp | Brainstorm 2024 - Healthcare Innovation Competition ",
+      "date": "2024",
+      "awarder": "",
+      "url": "",
+      "summary": "PulseX- A wearable device that utilizes machine learning and Electrooculography (EOG) signals to track a driver’s state of awareness in real-time"
+    },   {
+      "title": " Stage 2 (Top 20) | DVCon India 2024- International Design Contest",
+      "date": "2024",
+      "awarder": "",
+      "url": "",
+      "summary": "GateMasters- Design and implement a hardware accelerator for a Vision Transformer-based malware detection system on a VEGA Processor."
+    },
+    {
+      "title": "Finalist | HackX 2024- Interuniversity Startup Challange",
+      "date": "2024",
+      "awarder": "",
+      "url": "",
+      "summary": "Hydrolink- A Complete IoT Device Revolutionizing Water Tank Management"
+    },
+    {
+      "title": "Dean’s List",
+      "date": "2023",
+      "awarder": "",
+      "url": "",
+      "summary": "Semester 2"
+    },
+    {
+      "title": "Champions | Sri Lanka University Games 2023",
+      "date": "2023",
+      "awarder": "",
+      "url": "",
+      "summary": "University Baseball Team- University of Moratuwa"
+    },{
+      "title": "Obtained a 'Merit' for Hockey on Annual 'Colors Nite' ",
+      "date": "2017",
+      "awarder": "",
+      "url": "",
+      "summary": "Dharmaraja Collage - Kandy"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Machine Learning Specialization",
+      "date": "2023",
+      "issuer": "Stanford University | Deeplearning.AI- Coursera",
+      "url": "https://coursera.org/share/0a8d1e5a44e77cc9a4a0edcd06f1830b",
+      "icon": "fa-solid fa-certificate"
+    }, {
+      "name": "Introduction to FPGA Design for Embedded Systems (ongoing)",
+      "date": "2024",
+      "issuer": "University of Colorado Boulder- Coursera",
+      "url": "",
+      "icon": "fa-solid fa-certificate"
+    },{
+      "name": "Hardware Description Languages for FPGA Design",
+      "date": "2024",
+      "issuer": "University of Colorado Boulder- Coursera",
+      "url": "https://coursera.org/share/b6e235250b54bda086fd62c34079cb27",
+      "icon": "fa-solid fa-certificate"
+    },{
+      "name": "FPGA Softcore Processors and IP Acquisition (ongoing)",
+      "date": "2024",
+      "issuer": "University of Colorado Boulder- Coursera",
+      "url": "",
+      "icon": "fa-solid fa-certificate"
+    },{
+      "name": "AAT passed Finalist",
+      "date": "2021",
+      "issuer": "Association of Accounting Technicians of Sri Lanka",
+      "url": "",
+      "icon": "fa-solid fa-certificate"
+    },{
+      "name": "Diploma in English",
+      "date": "2018",
+      "issuer": "Esoft Metro Campus- Sri Lanka",
+      "url": "",
+      "icon": "fa-solid fa-certificate"
+    },{
+      "name": "Diploma in IT",
+      "date": "2018",
+      "issuer": "Esoft Metro Campus- Sri Lanka",
+      "url": "",
+      "icon": "fa-solid fa-certificate"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "publications": []
+  ,
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Languages",
+      "level": "",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Java", "C", "C++", "VHDL", "Verilog", "SystemVerilog", "Python", "SQL", "React", "JavaScript", "Dart", "HTML", "CSS"
+      ]
+    },
+    {
+      "name": "Developer Tools",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Quartus", "Vivado", "MATLAB", "Git", "Altium Designer", "SolidWorks", "Android Studio", "Gazebo", "Docker",
+        "VS Code", "Postman"
+      ]
+    },  {
+      "name": "Frameworks",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Spring Boot", "Flutter", "Arduino", "Scikit-learn", "ROS2"
+      ]
+    },
+    {
+      "name": "Cloud/Databases",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Firebase", "Mongo DB", "Microsoft Azure", "SQL"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Windows", "Linux", "Ubuntu", "Raspbian"
+      ]
+    },{
+      "name": "Soft Skills",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Problem-Solving", "Team Leadership", "Project Management", "Teamwork", "Public Speaking", "Finance and Account management", "Strategic Decision-Making","Digital Marketing", "Teaching", "Photography", "Videography"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Sinhala",
       "fluency": "Native speaker",
       "icon": ""
     },
