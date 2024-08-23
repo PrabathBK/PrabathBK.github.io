@@ -11,6 +11,6 @@ category: work
 - **Project Aim:** Deploy a ViT-based malware detection system on an edge device equipped with the VEGA AS1061 Processor.
 - **Stage 1:** Propose a novel acceleration IP to enhance the ViT model’s inference performance on the VEGA Processor, ensuring effective malware detection in real-world scenarios.
 
-If you need the project report, please contact me at [prabathwijethilaka50@gmail.com](mailto:prabathwijethilaka50@gmail.com).
+If you need the project report, please contact me from [prabathwijethilaka50@gmail.com](mailto:prabathwijethilaka50@gmail.com).
 
-**Skills:** Digital Electronics · Digital System Design · Computer Architecture · SystemVerilog · Hardware Description Language · Field-Programmable Gate Arrays (FPGA)
+**Skills:** Digital Electronics , Digital System Design , Computer Architecture , SystemVerilog , Hardware Description Language , Field-Programmable Gate Arrays (FPGA)

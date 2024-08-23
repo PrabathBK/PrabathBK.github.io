@@ -65,6 +65,7 @@ link:- https://www.youtube.com/watch?v=foo7gtkE8sE
 
 **Project Repository:** [Project Repository](https://github.com/PrabathBK/Ros2-Simulation-with-Gazebo)
 
+**Skills:** Robot Operating System (ROS) , Linux , Ubuntu , Gazebo , Automation
 
 ## License
 
