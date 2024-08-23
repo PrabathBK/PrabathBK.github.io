@@ -4,10 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
   - PrabathBK/Ros2-Simulation-with-Gazebo
   - PrabathBK/CompanyB
-  - PrabathBK/Matrix_vector_mul_UART
   - PrabathBK/Water-Quality-Measure-Device
   - PrabathBK/Matrix_vector_mul_UART
   - PrabathBK/Accumulator-with-AXIS
