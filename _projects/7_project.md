@@ -1,81 +1,72 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: 🤖 Robot Simulation Project using ROS2 Humble and Gazebo!
+description: The robot can map a room and navigate from one location to another while avoiding obstacles with SLAM and Nav2.
+img: assets/img/ros_sim.jpeg
 importance: 1
 category: work
 related_publications: true
 ---
+## Overview
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project features a robot model equipped with:
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+- 🛰️ **Lidar**
+- 📸 **Stereo Camera as a Depth Camera**
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Using these sensors, the robot can map a room and navigate from one location to another while avoiding obstacles with SLAM and Nav2.
+### Here is a video demonstrating the project:
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="text-center">
+    <div class="caption text-end">
+        <h4>Demo Video</h4>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="row justify-content-center">
+        <div class="col-sm mt-3 mt-md-0">
+            <a href="https://www.youtube.com/watch?v=foo7gtkE8sE" target="_blank" rel="noopener noreferrer">
+                <img src="{{ site.baseurl }}/assets/img/ros_sim.jpeg" alt="Hand Drawing Math Solver" class="img-fluid rounded z-depth-1" width="400" height="300">
+            </a>
+        </div>
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+link:- https://www.youtube.com/watch?v=foo7gtkE8sE 
 
-{% raw %}
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Branches
 
-{% endraw %}
+### 🌍 Main Branch: Mapping and Navigation
+- Collects environmental data using sensors and navigates the robot from one location to another, avoiding obstacles along the way.
+
+### 🎾 Object Tracking Branch
+- The robot tracks a tennis ball using OpenCV object detection.
+
+## Usage
+
+- **Mapping a Room**:
+    1. Move the robot around to create a map.
+    2. Save the generated map.
+
+- **Navigation**:
+    1. Load the saved map.
+    2. Set a goal location.
+    3. The robot will navigate to the goal while avoiding obstacles.
+
+- **Object Tracking**:
+    1. Switch to the `ObjectTracking` branch.
+    2. Launch the object tracking node.
+    3. The robot will track a tennis ball in the environment.
+
+## Simulation Videos
+
+🎥 Watch simulation videos in the [Simulator Video Repository](https://github.com/PrabathBK/Ros2-Simulation-with-Gazebo/tree/main/simulation%20videos).
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+Happy Coding! 🎉
