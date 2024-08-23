@@ -65,5 +65,6 @@ The Diabetes Detection Web Application leverages machine learning algorithms to 
 
 ## Contact Information
 
+**Project Repository:** [Project Repository](https://github.com/PrabathBK/DiabetesAI-Webproject)
 For any questions or suggestions, please feel free to reach out to [prabathwijethilaka50@gmail.com](mailto:prabathwijethilaka50@gmail.com).
 
