@@ -144,31 +144,59 @@
       "highlights": []
     },
     {
-      "organization": "Mora Hiking Club",
+      "organization": "AIESEC - University of Moratuwa",
       "location":"Moratuwa,Sri Lanka" ,
-      "position": "STRIDIAN Participent",
-      "url": "https://morahiking.com/",
-      "startDate": "2023-07",
-      "endDate": "2023-08",
-      "summary": "STRIDIAN is a 2-day hiking event organized by the Mora Hiking Club and it is the Flagship event of the club.",
+      "position": "Delegate of Lead CS 8.0",
+      "url": "https://uom.lk/archi/news_events/aiesec-university-moratuwa",
+      "startDate": "2022-08",
+      "endDate": "2022-08",
+      "summary": "Lead CS is a leadership development program organized by AIESEC in University of Moratuwa",
       "highlights": []
+    },
+    {
+      "organization": "Sports - Dharmaraja Collage",
+      "location":"Kandy,Sri Lanka" ,
+      "position": "",
+      "url": "",
+      "startDate": "2013-01",
+      "endDate": "2017-12",
+      "summary": "",
+      "highlights": ["Captain of the college under 17 volleyball team","Member of the college Baseball, and Hockey team"]
     }
   ],
   
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Dharmaraja Collage -  Kandy",
+      "location": "Kandy,Sri Lanka",
+      "url": "https://www.dharmaraja.lk/",
+      "area": "",
+      "studyType": "High School",
+      "startDate": "2012",
+      "endDate": "2020",
+      "score": "",
+      "courses": ["Physical science"]
+    },
+    {
+      "institution": "University Of Moratuwa",
+      "location": "Moratuwa,Sri Lanka",
+      "url": "https://uom.lk/",
+      "area": "Electronic and Telecommunication Engineering",
+      "studyType": "B.Sc (Hons) Engineering Undergraduate",
+      "startDate": "2022",
+      "endDate": "Present",
+      "score": "106789",
+      "courses": ["Digital System Design", "Computer Architecture", "Internet of Things", "Machine Learning"]
     }
   ],
   "awards": [
+    {
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    },
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
