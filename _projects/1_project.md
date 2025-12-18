@@ -29,8 +29,6 @@ With Hydrolink, we’re not just creating a product; we’re empowering communit
 
 We developed Hydrolink as a comprehensive IoT solution and received funding from the World Bank for this project under UBLC. Our team is currently working on improvements to make it market-ready.
 
-For more information, visit: [www.hydrolink.lk](http://www.hydrolink.lk)
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/hydrolink2.jpg" title="Example Image 1" class="img-fluid rounded z-depth-1" width="400" height="300"%}

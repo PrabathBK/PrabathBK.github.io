@@ -25,9 +25,7 @@ Using these sensors, the robot can map a room and navigate from one location to 
     </div>
     <div class="row justify-content-center">
         <div class="col-sm mt-3 mt-md-0">
-            <a href="https://www.youtube.com/watch?v=foo7gtkE8sE" target="_blank" rel="noopener noreferrer">
-                <img src="{{ site.baseurl }}/assets/img/ros_sim.jpeg" alt="Hand Drawing Math Solver" class="img-fluid rounded z-depth-1" width="400" height="300">
-            </a>
+            <a href="https://www.youtube.com/watch?v=foo7gtkE8sE" target="_blank" rel="noopener noreferrer">Watch Demo Video on YouTube</a>
         </div>
     </div>
 </div>

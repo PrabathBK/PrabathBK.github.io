@@ -22,9 +22,7 @@ _If you are using the given code, please replace the Gemini API with your own AP
     </div>
     <div class="row justify-content-center">
         <div class="col-sm mt-3 mt-md-0">
-            <a href="https://youtu.be/OCJ6JqEigGU" target="_blank" rel="noopener noreferrer">
-                <img src="{{ site.baseurl }}/assets/img/handmath.png" alt="Hand Drawing Math Solver" class="img-fluid rounded z-depth-1" width="400" height="300">
-            </a>
+            <a href="https://youtu.be/OCJ6JqEigGU" target="_blank" rel="noopener noreferrer">Watch Demo Video on YouTube</a>
         </div>
     </div>
 </div>

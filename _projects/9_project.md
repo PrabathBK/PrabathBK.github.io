@@ -99,7 +99,7 @@ To set up the project locally, follow these steps:
    npm run dev
    ```
 
-6. Open a web browser and go to [http://localhost:5173/companyB/manufacturing/](http://localhost:5173/companyB/manufacturing/) to access the manufacturing subsystem.
+6. Open a web browser and navigate to the manufacturing subsystem (typically runs on localhost:5173).
 
 **Skills:** Git , Problem Solving , MongoDB , Java , Troubleshooting , Object-Oriented Programming (OOP) , Postman API , Logic Design , Spring Boot , React.js
 
