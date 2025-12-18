@@ -8,6 +8,7 @@ category: work
 ---
 
 ## Technologies
+
 - Analog Filter
 - Radio Frequency Communication
 - High Speed PCB Design
@@ -16,10 +17,10 @@ category: work
 - Machine Learning (Classification)
 
 ## Description
+
 **Steer Safe** is a device that utilizes machine learning and electrooculography (EOG) signals to track a driver's state of awareness in real-time. It provides early alerts to potentially save lives by monitoring the driver's attention levels.
 
 Currently, this project is undergoing the IP process. If you need more details, feel free to contact me.
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

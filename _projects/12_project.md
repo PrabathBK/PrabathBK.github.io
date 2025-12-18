@@ -6,10 +6,13 @@ img: assets/img/uart1.jpeg
 importance: 4
 category: work
 ---
+
 ## 🔍 Project Overview
+
 Successfully implemented and tested a UART communication system on an FPGA using Verilog, leveraging existing modules with custom modifications. Utilized Quartus Lite for FPGA development and integrated Raspberry Pi for data input.
 
 ## 🔧 Key Responsibilities
+
 - 📚 Research and Selection: Identified and reviewed existing Verilog RTL for UART transceivers, selecting a suitable design for modification and implementation.
 - 💻 Implementation: Modified existing UART transmitter and receiver modules to meet project specifications, ensuring compatibility with the FPGA architecture.
 - 🛠️ Testbench Development: Created a comprehensive Verilog testbench to simulate and validate the functionality of both transmitter and receiver modules under various conditions.
@@ -18,6 +21,7 @@ Successfully implemented and tested a UART communication system on an FPGA using
 - 🚀 FPGA Deployment: Synthesized, placed, routed, and programmed the design onto the FPGA, validating the final implementation with real-world data transmission.
 
 ## 🛠️ Tools and Technologies
+
 - Verilog HDL
 - Quartus Lite
 - ModelSim for simulation
@@ -40,7 +44,6 @@ Successfully implemented and tested a UART communication system on an FPGA using
 
 **Project Repository:** [Project Repository](https://github.com/PrabathBK/FPGA_UART)
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/uart1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -52,5 +55,3 @@ Successfully implemented and tested a UART communication system on an FPGA using
         {% include figure.liquid loading="eager" path="assets/img/uart3.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-

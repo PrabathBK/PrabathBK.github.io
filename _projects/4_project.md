@@ -5,7 +5,7 @@ description: This project is part of an assignment for a digital system design c
 img: assets/img/Axi_system.jpeg
 importance: 3
 category: work
-redirect: 
+redirect:
 ---
 
 ### Technical Details:

@@ -8,9 +8,7 @@ related_posts: false
 ---
 
 Championship - SLIoT Challange 2023
- 
 
 ---
 
 All island Internet of Things Competition
-

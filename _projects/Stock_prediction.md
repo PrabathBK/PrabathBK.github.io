@@ -6,6 +6,7 @@ img: assets/img/stock.jpg
 importance: 2
 category: fun
 ---
+
 ## Dataset Source
 
 The stock price data for Apple Inc. was sourced from [Yahoo Finance](https://finance.yahoo.com/).
@@ -50,7 +51,6 @@ The finalized model for stock price prediction yielded the following results bas
 
 The observed RMSE values indicate that the Linear Regression model performed slightly better in this specific scenario compared to the Random Forest Regressor. However, it's essential to note that the efficacy of a model can vary based on multiple factors, including the dataset, features, and the problem's complexity. Further iterations and feature engineering could potentially enhance the performance of both models.
 
-
 <div style="text-align: center;">
     <div style="display: inline-block; margin: 10px;">
         <img src="https://github.com/PrabathBK/Stock-prediction/blob/main/rf.png?raw=true" alt="Input" width="600" height="350">
@@ -62,7 +62,6 @@ The observed RMSE values indicate that the Linear Regression model performed sli
     </div>
     
 </div>
-
 
 ## Conclusion
 

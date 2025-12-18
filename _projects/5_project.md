@@ -8,12 +8,13 @@ category: fun
 ---
 
 ### Features:
+
 - Hand tracking using OpenCV
 - Drawing mathematical problems on the screen
 - Sending the problems to Gemini API
 - Receiving and displaying the solution
 
-*If you are using the given code, please replace the Gemini API with your own API.*
+_If you are using the given code, please replace the Gemini API with your own API._
 
 <div class="text-center">
     <div class="caption text-end">

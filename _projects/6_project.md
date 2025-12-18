@@ -6,12 +6,14 @@ img: assets/img/handVolume.png
 importance: 4
 category: fun
 ---
+
 ### Features:
+
 - Hand tracking using OpenCV
 - Recognizing specific hand gestures to increase or decrease volume
 - Real-time volume control using Pycaw
 
-*If you are using the given code, please replace the Gemini API with your own API.*
+_If you are using the given code, please replace the Gemini API with your own API._
 
 <div class="text-center">
     <div class="caption text-end">
@@ -25,7 +27,6 @@ category: fun
         </div>
     </div>
 </div>
-
 
 **Project Repository:** [Project Repository](https://github.com/PrabathBK/Hand_Tracking)
 

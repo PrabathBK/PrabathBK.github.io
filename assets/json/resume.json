@@ -41,7 +41,8 @@
       "endDate": "2024",
       "summary": "Electronic club is the official student body in the Department of Electronic and Telecommunication Engineering, University of Moratuwa. The club is responsible for organizing various events and workshops to enhance the knowledge of the students in the department. As the Social Media Sub-coordinator, I was responsible for managing the social media platforms of the club and promoting the events and workshops organized by the club.",
       "highlights": []
-    },    {
+    },
+    {
       "name": "Aura Digital Labs",
       "position": "Co-Founder",
       "url": "https://www.auradigitallabs.com/",
@@ -50,7 +51,6 @@
       "summary": "Aura Digital Labs is a leading digital transformation consultancy, dedicated to empowering businesses of all sizes to thrive in the digital age. With a team of seasoned experts, we combine cutting-edge technology, strategic insights, and a customer-centric approach to deliver innovative solutions that drive growth and success.",
       "highlights": ["Visit https://www.auradigitallabs.com/"]
     }
-
   ],
   "volunteer": [
     {
@@ -65,7 +65,7 @@
     },
     {
       "organization": "IEEE Society University of Moratuwa",
-      "location":"Moratuwa,Sri Lanka" ,
+      "location": "Moratuwa,Sri Lanka",
       "position": "Finance Committee member",
       "url": "https://site.ieee.org/sb-moratuwa/",
       "startDate": "2023-03",
@@ -75,7 +75,7 @@
     },
     {
       "organization": "AIESEC - University of Moratuwa",
-      "location":"Moratuwa,Sri Lanka" ,
+      "location": "Moratuwa,Sri Lanka",
       "position": "Finance Committee member",
       "url": "https://uom.lk/archi/news_events/aiesec-university-moratuwa",
       "startDate": "2023-07",
@@ -85,7 +85,7 @@
     },
     {
       "organization": "IEEE Society University of Moratuwa",
-      "location":"Moratuwa,Sri Lanka" ,
+      "location": "Moratuwa,Sri Lanka",
       "position": "Finance Committee member",
       "url": "https://site.ieee.org/sb-moratuwa/",
       "startDate": "2022-08",
@@ -95,7 +95,7 @@
     },
     {
       "organization": "Dharmaraja Collage",
-      "location":"Kandy,Sri Lanka" ,
+      "location": "Kandy,Sri Lanka",
       "position": "Jounior Prefect",
       "url": "https://www.dharmaraja.lk/",
       "startDate": "2015-01",
@@ -105,7 +105,7 @@
     },
     {
       "organization": "Dharmaraja Collage Hostal",
-      "location":"Kandy,Sri Lanka" ,
+      "location": "Kandy,Sri Lanka",
       "position": "President of Collage Hosteler’s Society",
       "url": "",
       "startDate": "2017-01",
@@ -115,7 +115,7 @@
     },
     {
       "organization": "Sasnaka Sansada",
-      "location":"Kandy,Sri Lanka" ,
+      "location": "Kandy,Sri Lanka",
       "position": "Member",
       "url": "",
       "startDate": "2021",
@@ -125,7 +125,7 @@
     },
     {
       "organization": "Prakampana Sansada",
-      "location":"Hettipola,Sri Lanka" ,
+      "location": "Hettipola,Sri Lanka",
       "position": "Co-Founder and Advisor",
       "url": "",
       "startDate": "2022",
@@ -135,7 +135,7 @@
     },
     {
       "organization": "Mora Hiking Club",
-      "location":"Moratuwa,Sri Lanka" ,
+      "location": "Moratuwa,Sri Lanka",
       "position": "STRIDIAN Participent",
       "url": "https://morahiking.com/",
       "startDate": "2023-07",
@@ -145,7 +145,7 @@
     },
     {
       "organization": "AIESEC - University of Moratuwa",
-      "location":"Moratuwa,Sri Lanka" ,
+      "location": "Moratuwa,Sri Lanka",
       "position": "Delegate of Lead CS 8.0",
       "url": "https://uom.lk/archi/news_events/aiesec-university-moratuwa",
       "startDate": "2022-08",
@@ -155,16 +155,16 @@
     },
     {
       "organization": "Sports - Dharmaraja Collage",
-      "location":"Kandy,Sri Lanka" ,
+      "location": "Kandy,Sri Lanka",
       "position": "",
       "url": "",
       "startDate": "2013-01",
       "endDate": "2017-12",
       "summary": "",
-      "highlights": ["Captain of the college under 17 volleyball team","Member of the college Baseball, and Hockey team"]
+      "highlights": ["Captain of the college under 17 volleyball team", "Member of the college Baseball, and Hockey team"]
     }
   ],
-  
+
   "education": [
     {
       "institution": "Dharmaraja Collage -  Kandy",
@@ -203,7 +203,8 @@
       "awarder": "",
       "url": "",
       "summary": "PulseX- A wearable device that utilizes machine learning and Electrooculography (EOG) signals to track a driver’s state of awareness in real-time"
-    },   {
+    },
+    {
       "title": " Stage 2 (Top 20) | DVCon India 2024- International Design Contest",
       "date": "2024",
       "awarder": "",
@@ -230,7 +231,8 @@
       "awarder": "",
       "url": "",
       "summary": "University Baseball Team- University of Moratuwa"
-    },{
+    },
+    {
       "title": "Obtained a 'Merit' for Hockey on Annual 'Colors Nite' ",
       "date": "2017",
       "awarder": "",
@@ -245,37 +247,43 @@
       "issuer": "Stanford University | Deeplearning.AI- Coursera",
       "url": "https://coursera.org/share/0a8d1e5a44e77cc9a4a0edcd06f1830b",
       "icon": "fa-solid fa-certificate"
-    }, {
+    },
+    {
       "name": "Introduction to FPGA Design for Embedded Systems (ongoing)",
       "date": "2024",
       "issuer": "University of Colorado Boulder- Coursera",
       "url": "",
       "icon": "fa-solid fa-certificate"
-    },{
+    },
+    {
       "name": "Hardware Description Languages for FPGA Design",
       "date": "2024",
       "issuer": "University of Colorado Boulder- Coursera",
       "url": "https://coursera.org/share/b6e235250b54bda086fd62c34079cb27",
       "icon": "fa-solid fa-certificate"
-    },{
+    },
+    {
       "name": "FPGA Softcore Processors and IP Acquisition (ongoing)",
       "date": "2024",
       "issuer": "University of Colorado Boulder- Coursera",
       "url": "",
       "icon": "fa-solid fa-certificate"
-    },{
+    },
+    {
       "name": "AAT passed Finalist",
       "date": "2021",
       "issuer": "Association of Accounting Technicians of Sri Lanka",
       "url": "",
       "icon": "fa-solid fa-certificate"
-    },{
+    },
+    {
       "name": "Diploma in English",
       "date": "2018",
       "issuer": "Esoft Metro Campus- Sri Lanka",
       "url": "",
       "icon": "fa-solid fa-certificate"
-    },{
+    },
+    {
       "name": "Diploma in IT",
       "date": "2018",
       "issuer": "Esoft Metro Campus- Sri Lanka",
@@ -297,54 +305,54 @@
       "icon": "fa-solid fa-certificate"
     }
   ],
-  "publications": []
-  ,
+  "publications": [],
   "skills": [
     {
       "name": "Languages",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Java", "C", "C++", "VHDL", "Verilog", "SystemVerilog", "Python", "SQL", "React", "JavaScript", "Dart", "HTML", "CSS"
-      ]
+      "keywords": ["Java", "C", "C++", "VHDL", "Verilog", "SystemVerilog", "Python", "SQL", "React", "JavaScript", "Dart", "HTML", "CSS"]
     },
     {
       "name": "Developer Tools",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Quartus", "Vivado", "MATLAB", "Git", "Altium Designer", "SolidWorks", "Android Studio", "Gazebo", "Docker",
-        "VS Code", "Postman"
-      ]
-    },  {
+      "keywords": ["Quartus", "Vivado", "MATLAB", "Git", "Altium Designer", "SolidWorks", "Android Studio", "Gazebo", "Docker", "VS Code", "Postman"]
+    },
+    {
       "name": "Frameworks",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Spring Boot", "Flutter", "Arduino", "Scikit-learn", "ROS2"
-      ]
+      "keywords": ["Spring Boot", "Flutter", "Arduino", "Scikit-learn", "ROS2"]
     },
     {
       "name": "Cloud/Databases",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Firebase", "Mongo DB", "Microsoft Azure", "SQL"
-      ]
+      "keywords": ["Firebase", "Mongo DB", "Microsoft Azure", "SQL"]
     },
     {
       "name": "Operating Systems",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Windows", "Linux", "Ubuntu", "Raspbian"
-      ]
-    },{
+      "keywords": ["Windows", "Linux", "Ubuntu", "Raspbian"]
+    },
+    {
       "name": "Soft Skills",
       "level": "",
       "icon": "",
       "keywords": [
-        "Problem-Solving", "Team Leadership", "Project Management", "Teamwork", "Public Speaking", "Finance and Account management", "Strategic Decision-Making","Digital Marketing", "Teaching", "Photography", "Videography"
+        "Problem-Solving",
+        "Team Leadership",
+        "Project Management",
+        "Teamwork",
+        "Public Speaking",
+        "Finance and Account management",
+        "Strategic Decision-Making",
+        "Digital Marketing",
+        "Teaching",
+        "Photography",
+        "Videography"
       ]
     }
   ],
@@ -364,22 +372,17 @@
     {
       "name": "Academic",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Digital Design", "Computer Architecture","FPGA Design" ,"Internet of Things", "Machine Learning"
-      ]
+      "keywords": ["Digital Design", "Computer Architecture", "FPGA Design", "Internet of Things", "Machine Learning"]
     },
     {
       "name": "Sports",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Cricket", "Volleyball", "Baseball", "Hockey"
-      ]
-    },    {
+      "keywords": ["Cricket", "Volleyball", "Baseball", "Hockey"]
+    },
+    {
       "name": "Hobbies",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Hiking","Camping","Playing Drums","Watching Movies"
-      ]
+      "keywords": ["Hiking", "Camping", "Playing Drums", "Watching Movies"]
     }
   ],
   "references": [
@@ -392,28 +395,40 @@
       "name": "Sampath K. Perera,",
       "icon": "fa-solid fa-thumbtack",
       "reference": " B.Sc. Eng. (Moratuwa, Sri Lanka), M.E.Sc (Western, Canada), Ph.D. (RUB, Germany), MIEEE,Senior Lecturer, Department of Electronic and Telecommunication Engineering, Faculty of Engineering, University of Moratuwa, Moratuwa, Sri Lanka. Email: sampathk@uom.lk. Phone: +94(0)705726264"
-      
     }
   ],
   "projects": [
     {
       "name": "Processor Design and Implementation on a FPGA",
       "summary": "This is an ongoing project for design and implement a single-cycle processor",
-      "highlights": [" Stage 1: 32-bit non-pipelined processor: single cycle processor", "Stage 2: 32-bit pipelined processor design (using System Verilog)","Stage 3: Associative mapped cache memory"],
+      "highlights": [
+        " Stage 1: 32-bit non-pipelined processor: single cycle processor",
+        "Stage 2: 32-bit pipelined processor design (using System Verilog)",
+        "Stage 3: Associative mapped cache memory"
+      ],
       "startDate": "2024-07",
       "endDate": "present",
       "url": ""
-    },  {
+    },
+    {
       "name": "Hardware accelerator for a Vision Transformer-based malware detection system on a VEGA Processor",
       "summary": "This is an ongoing project of DVcon India Design Context 2024. This project is for Accelerating ViT-based malware detection on edge devices with VEGA AS1061 Processor, based on RISC-V ISA.",
-      "highlights": ["This project aims to deploy a ViT-based malware detection system on an edge device equipped with the VEGA AS1061 Processor", "Stage 1 focuses on proposing a novel acceleration IP to enhance the ViT model’s inference performance on the VEGA Processor, ensuring effective malware detection in real-world scenarios."],
+      "highlights": [
+        "This project aims to deploy a ViT-based malware detection system on an edge device equipped with the VEGA AS1061 Processor",
+        "Stage 1 focuses on proposing a novel acceleration IP to enhance the ViT model’s inference performance on the VEGA Processor, ensuring effective malware detection in real-world scenarios."
+      ],
       "startDate": "2024-07",
       "endDate": "present",
       "url": ""
-    },{
+    },
+    {
       "name": "Project Hydrolink",
       "summary": "A Complete IoT Device Revolutionizing Water Tank Management",
-      "highlights": [" Acomplete IoT device revolutionizing water tank management."," Arduino IDE, ESP Microcontroller, Google Firebase, Flutter, SolidWorks, Altium","For more Details, Visit www.hydrolink.lk"],
+      "highlights": [
+        " Acomplete IoT device revolutionizing water tank management.",
+        " Arduino IDE, ESP Microcontroller, Google Firebase, Flutter, SolidWorks, Altium",
+        "For more Details, Visit www.hydrolink.lk"
+      ],
       "startDate": "2023-01",
       "endDate": "present",
       "url": "www.hydrolink.lk"
@@ -435,9 +450,12 @@
       "url": ""
     },
     {
-      "name":  "Gazebo Robot Simulation",
+      "name": "Gazebo Robot Simulation",
       "summary": "Robot Simulation Project using ROS2 Humble and Gazebo",
-      "highlights": ["Map a room and navigate the robot from one location to another, avoiding obstacles along the way. Additionally,perform object tracking", " Gazebo, Ros2, Ubuntu, OpenCV"],
+      "highlights": [
+        "Map a room and navigate the robot from one location to another, avoiding obstacles along the way. Additionally,perform object tracking",
+        " Gazebo, Ros2, Ubuntu, OpenCV"
+      ],
       "startDate": "2024-05",
       "endDate": "2024-07",
       "url": "https://github.com/PrabathBK/Ros2-Simulation-with-Gazebo"
@@ -445,7 +463,10 @@
     {
       "name": "Modular Software Development Project",
       "summary": "Developed a full-stack web application as a submodule within a main company.",
-      "highlights": ["Integrating backend functionalities with frontend components to streamline operations.", "Spring boot, Java, MongoDB, React, Postman, Rest API"],
+      "highlights": [
+        "Integrating backend functionalities with frontend components to streamline operations.",
+        "Spring boot, Java, MongoDB, React, Postman, Rest API"
+      ],
       "startDate": "2024-01",
       "endDate": "2024-05",
       "url": "https://github.com/PrabathBK/CompanyB"
@@ -453,7 +474,10 @@
     {
       "name": "Point-to-Point Communication Design project",
       "summary": "We implemented a secure and reliable point-to-point digital wireless communication system using SDR.",
-      "highlights": [" Our achievements include the successful transmission and reception of diverse data types, such as images, text, and real-time audio.", "Python, GNU radio, MATLAB"],
+      "highlights": [
+        " Our achievements include the successful transmission and reception of diverse data types, such as images, text, and real-time audio.",
+        "Python, GNU radio, MATLAB"
+      ],
       "startDate": "2023-08",
       "endDate": "2023-12",
       "url": "https://github.com/PrabathBK/Communication-Design-Project"
@@ -461,7 +485,10 @@
     {
       "name": "Industrial Portable Water Quality Measurement Device",
       "summary": " Developed an industrial portable water quality measuring device using sensor technologies and a Mobile app.",
-      "highlights": ["Capable of accurately measuring four key parameters: pH, Turbidity, Conductivity, and Temperature.", "Arduino-IDE, ESP-Microcontroller, Google Firebase, Flutter, SolidWorks, Altium"],
+      "highlights": [
+        "Capable of accurately measuring four key parameters: pH, Turbidity, Conductivity, and Temperature.",
+        "Arduino-IDE, ESP-Microcontroller, Google Firebase, Flutter, SolidWorks, Altium"
+      ],
       "startDate": "2024-01",
       "endDate": "2024-08",
       "url": "https://github.com/PrabathBK/Water-Quality-Measure-Device"
@@ -469,7 +496,10 @@
     {
       "name": "UART Communication System Implementation on FPGA using Verilog",
       "summary": "Implemented and tested a UART communication system on an FPGA using Verilog.",
-      "highlights": ["Utilized Quartus Lite for FPGA development and integrated Raspberry Pi for data input.", "Verilog-HDL, Quartus Lite, FPGA, Raspberry-pi, Python"],
+      "highlights": [
+        "Utilized Quartus Lite for FPGA development and integrated Raspberry Pi for data input.",
+        "Verilog-HDL, Quartus Lite, FPGA, Raspberry-pi, Python"
+      ],
       "startDate": "2024-03",
       "endDate": "2024-04",
       "url": "https://github.com/PrabathBK/FPGA_UART"
@@ -477,7 +507,13 @@
     {
       "name": "Machine Learning Projects",
       "summary": "",
-      "highlights": ["DiabetesAI-Webproject", "SMS spam detector","Stock prediction","Breast Cancer Wisconsin Diagnostic Predictor","– Cardiovascular Disease Predictor"],
+      "highlights": [
+        "DiabetesAI-Webproject",
+        "SMS spam detector",
+        "Stock prediction",
+        "Breast Cancer Wisconsin Diagnostic Predictor",
+        "– Cardiovascular Disease Predictor"
+      ],
       "startDate": "2023",
       "endDate": "",
       "url": "https://github.com/PrabathBK/"
@@ -485,18 +521,26 @@
     {
       "name": "Analog Portable Audio Amplifier",
       "summary": " We have designed a Portable Audio Amplifier using only analog components.",
-      "highlights": [" Our device is capable of amplifying audio input from any audio-generating device through three main sub-circuits:preamplifier, tone controller, and power amplifier. We’ve implemented the Baxandall passive tone controller.","Simulink, Proteus, LT-Spice, Altium, Solidworks"],
+      "highlights": [
+        " Our device is capable of amplifying audio input from any audio-generating device through three main sub-circuits:preamplifier, tone controller, and power amplifier. We’ve implemented the Baxandall passive tone controller.",
+        "Simulink, Proteus, LT-Spice, Altium, Solidworks"
+      ],
       "startDate": "2024-07",
       "endDate": "2024-09",
       "url": "https://github.com/PrabathBK/Analog-Portable-Audio-Amplifier"
-    },  {
+    },
+    {
       "name": "Steer-Safe",
       "summary": "A wearable device that utilizes machine learning and Electrooculography (EOG) signals to track a driver’s state of awareness in real-time",
-      "highlights": ["Steer Safe is a device which utilizes machine learning and electrooculography (EOG) signals to track a driver's state of awareness in real-time, providing early alerts and potentially saving lives.", "Analog Filter, Radio Frequncy Communication, High Speed PCB Design, Raspberrypi, wearable biomedical device design, Machine learning(Classification)"],
+      "highlights": [
+        "Steer Safe is a device which utilizes machine learning and electrooculography (EOG) signals to track a driver's state of awareness in real-time, providing early alerts and potentially saving lives.",
+        "Analog Filter, Radio Frequncy Communication, High Speed PCB Design, Raspberrypi, wearable biomedical device design, Machine learning(Classification)"
+      ],
       "startDate": "2024-05",
       "endDate": "2024-08",
       "url": ""
-    }, {
+    },
+    {
       "name": "Hand Gesture Math Solver with AI",
       "summary": "Developed using OpenCV and the Gemini API, this system allows users to write mathematical problems on the screen using hand gestures. The problem is then sent to the Gemini API, which processes it and returns the solution in real-time.",
       "highlights": [],

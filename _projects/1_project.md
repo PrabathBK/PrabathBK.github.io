@@ -5,7 +5,7 @@ description: HydroLink is an IoT device that transforms any domestic water tank 
 img: assets/img/hydrolink1.jpg
 importance: 1
 category: work
-redirect: 
+redirect:
 related_publications: false
 ---
 

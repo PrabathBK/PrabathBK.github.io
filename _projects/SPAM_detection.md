@@ -6,6 +6,7 @@ img: assets/img/spam.png
 importance: 2
 category: fun
 ---
+
 ## Dataset Source
 
 The SMS Spam Collection Dataset was retrieved from [Kaggle](https://www.kaggle.com/).
@@ -31,6 +32,7 @@ Both models were evaluated using confusion matrices and classification reports, 
 ## Sample Validation
 
 For real-world application, the model was tested on the following sample SMS:
+
 1. "Hey, you have won a car!!! congrats" - Predicted: Spam
 2. "Dear applicant, Your CV has been received. Best regards." - Predicted: Not Spam
 
@@ -43,4 +45,3 @@ This project showcases the effectiveness of machine learning in classifying SMS 
 **Project Repository:** [Project Repository](https://github.com/PrabathBK/SMS-spam-detector)
 
 For any inquiries or feedback,please contact [prabathwijethilaka50@gmail.com](mailto:prabathwijethilaka50@gmail.com).
-

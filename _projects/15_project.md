@@ -6,6 +6,7 @@ img: assets/img/diabetes.jpg
 importance: 2
 category: fun
 ---
+
 ## Data Source
 
 The dataset used for training and testing the model was sourced from Kaggle. It comprises various health-related features such as glucose level, blood pressure, BMI, etc., along with a target variable indicating the presence or absence of diabetes.
@@ -13,6 +14,7 @@ The dataset used for training and testing the model was sourced from Kaggle. It 
 ## Model Development
 
 ### Features Used
+
 - Pregnancies
 - Glucose
 - Blood Pressure
@@ -23,6 +25,7 @@ The dataset used for training and testing the model was sourced from Kaggle. It 
 - Age
 
 ### Model Selection
+
 After evaluating various classification algorithms, the Random Forest Classifier and Logistic Regression models were selected based on their performance metrics, including accuracy, precision, and recall.
 
 ## Model Accuracy
@@ -35,6 +38,7 @@ The Random Forest Classifier was ultimately chosen as the best-performing model 
 ## How to Run the Web Application
 
 1. Install Streamlit by running the following command:
+
 ```bash
   pip install streamlit
 ```
@@ -42,10 +46,10 @@ The Random Forest Classifier was ultimately chosen as the best-performing model 
 2. Clone the repository and navigate to the project directory.
 
 3. Run the Streamlit app using the following command:
+
 ```bash
   streamlit run diabetesai_webproject.py
 ```
-
 
 4. Once the application is running, open the provided URL in a web browser to access the Diabetes Detection App.
 
@@ -56,7 +60,6 @@ The Random Forest Classifier was ultimately chosen as the best-performing model 
 2. The main section of the web page contains sliders for various input features. Adjust the sliders to enter the desired values for each feature.
 
 3. After entering the input values, the web application will display the entered data and the predicted outcome (0 for non-diabetes, 1 for diabetes)
-   
 4. Use the provided information to understand the prediction and consult a healthcare professional for further guidance and diagnosis.
 
 ## Conclusion
@@ -67,4 +70,3 @@ The Diabetes Detection Web Application leverages machine learning algorithms to 
 
 **Project Repository:** [Project Repository](https://github.com/PrabathBK/DiabetesAI-Webproject)
 For any questions or suggestions, please feel free to reach out to [prabathwijethilaka50@gmail.com](mailto:prabathwijethilaka50@gmail.com).
-

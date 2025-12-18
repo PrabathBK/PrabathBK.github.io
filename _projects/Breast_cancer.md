@@ -6,6 +6,7 @@ img: assets/img/breast.jpg
 importance: 2
 category: fun
 ---
+
 ## Dataset Source
 
 The dataset was obtained from [Kaggle](https://www.kaggle.com/). It includes features that are primarily focused on the characteristics of cell nuclei.
@@ -50,6 +51,7 @@ The final model achieved an accuracy score of 97.37%. Detailed evaluation metric
 This project highlights the effectiveness of machine learning techniques in predicting breast cancer diagnosis based on cell nuclei characteristics.
 
 ## Contact Information
+
 **Project Repository:** [Project Repository](https://github.com/PrabathBK/Breast-Cancer-Wisconsin-Diagnostic-predictor)
 
 For any questions or suggestions, please feel free to reach out to [prabathwijethilaka50@gmail.com](mailto:prabathwijethilaka50@gmail.com).
