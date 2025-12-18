@@ -2,7 +2,7 @@
 layout: page
 title: UART Communication System Implementation on FPGA using Verilog
 description: implemented and tested a UART communication system on an FPGA using Verilog, leveraging existing modules with custom modifications
-img: https://github.com/PrabathBK/FPGA_UART/raw/main/FPGA.jpg
+img: assets/img/uart2.jpeg
 importance: 4
 category: work
 ---
@@ -35,9 +35,7 @@ Successfully implemented and tested a UART communication system on an FPGA using
     </div>
     <div class="row justify-content-center">
         <div class="col-sm mt-3 mt-md-0">
-            <a href="https://youtu.be/CayM7fCQ5rc" target="_blank" rel="noopener noreferrer">
-                <img src="{{ site.baseurl }}/assets/img/uart1.jpeg" alt="UART communication Simulation" class="img-fluid rounded z-depth-1" width="400" height="300">
-            </a>
+            <a href="https://youtu.be/CayM7fCQ5rc" target="_blank" rel="noopener noreferrer">Watch Demo Video on YouTube</a>
         </div>
     </div>
 </div>

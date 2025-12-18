@@ -9,7 +9,7 @@ category: fun
 
 ## Dataset Source
 
-The stock price data for Apple Inc. was sourced from [Yahoo Finance](https://finance.yahoo.com/).
+The stock price data for Apple Inc. was sourced from Yahoo Finance.
 
 ## Data Preprocessing
 
